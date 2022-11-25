@@ -51,6 +51,8 @@ p {
   font-size: 16px;
 }
 
+/* commented out the background image and its attribute to place inside html instead */
+
 .hero img {
   height: auto;
   width: 100%;
