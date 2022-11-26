@@ -2,7 +2,10 @@
 
 ## Description
 
-This repository is where I
+This repository is where I refactored the existing source code of the Horiseon Marketing Agency webpage in order to make the website more accessible, especially for those who use assitive technologies.
+This was done by ensuring that:
+
+-Semtantic HTML and HTML elements were used correctly through out
 
 The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
 
@@ -23,6 +26,8 @@ If you need an example of a good README, check out [the VSCode repository](https
 ## Horiseon Marketing Agency Website
 
 ![Horiseon Website Screenshot](./assets/images/HoriseonScreenCap.png)
+
+The Horiseon Marketing Agency
 
 ## Installation
 
