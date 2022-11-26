@@ -22,9 +22,7 @@ If you need an example of a good README, check out [the VSCode repository](https
 
 ## Horiseon Marketing Agency Website
 
-```md
-![Horiseon Website Screenshot](assets\images\HoriseonScreenCap.png)
-```
+![Horiseon Website Screenshot](./assets/images/HoriseonScreenCap.png)
 
 ## Installation
 
