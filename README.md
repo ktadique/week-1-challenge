@@ -1,4 +1,4 @@
-# Challenge 1 - Horiseon Marketing Webpage Code Refactor
+# Challenge 1 - Horiseon Webpage Code Refactor
 
 ## Description
 
