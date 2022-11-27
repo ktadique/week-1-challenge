@@ -9,7 +9,7 @@ This was done by ensuring that:
 - Semtantic HTML and HTML elements were used and formatted correctly through out the sourcecode.
 - All images and icons contain the 'alt' attribute
 
-I also attempted to tidy the sourcecode as much as possible, adding comments and moving around code for easier readability.
+I also attempted to fix and tidy the sourcecode as much as possible, adding comments and moving around code for easier readability.
 
 ## Table of Contents
 
